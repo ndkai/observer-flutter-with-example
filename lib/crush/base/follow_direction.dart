@@ -1,0 +1,4 @@
+enum FollowDirection{
+  FAILING,
+  GROWING
+}
